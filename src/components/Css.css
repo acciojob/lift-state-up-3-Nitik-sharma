@@ -1,0 +1,17 @@
+.parent{
+    width: 500px;
+    background-color: greenyellow;
+    padding: 2rem;
+}
+.child1{
+    width: 480px;
+   
+    background-color: rgba(221, 67, 11, 0.911);
+}
+.child2{
+    width: 480px;
+    background-color: yellow;
+    margin-top: -1.3rem;
+    
+    
+}
